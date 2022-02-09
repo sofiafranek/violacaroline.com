@@ -1,0 +1,6 @@
+{
+  "website": {
+    "local": "http://localhost:8082",
+    "production": "https://sofiafranek.com/"
+  }
+}

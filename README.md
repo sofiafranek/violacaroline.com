@@ -1,4 +1,1 @@
-The official sofia franek website hosted on sofiafranek.com
-
-# sofiafranek.com
-# violacaroline.com
+The official website hosted on violacaroline.com
